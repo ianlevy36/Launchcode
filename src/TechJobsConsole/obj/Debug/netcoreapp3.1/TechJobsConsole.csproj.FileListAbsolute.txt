@@ -1,0 +1,14 @@
+C:\Users\IanLevy\Desktop\launchcode\src\TechJobsConsole\bin\Debug\netcoreapp3.1\TechJobsConsole.exe
+C:\Users\IanLevy\Desktop\launchcode\src\TechJobsConsole\bin\Debug\netcoreapp3.1\job_data.csv
+C:\Users\IanLevy\Desktop\launchcode\src\TechJobsConsole\bin\Debug\netcoreapp3.1\TechJobsConsole.deps.json
+C:\Users\IanLevy\Desktop\launchcode\src\TechJobsConsole\bin\Debug\netcoreapp3.1\TechJobsConsole.runtimeconfig.json
+C:\Users\IanLevy\Desktop\launchcode\src\TechJobsConsole\bin\Debug\netcoreapp3.1\TechJobsConsole.runtimeconfig.dev.json
+C:\Users\IanLevy\Desktop\launchcode\src\TechJobsConsole\bin\Debug\netcoreapp3.1\TechJobsConsole.dll
+C:\Users\IanLevy\Desktop\launchcode\src\TechJobsConsole\bin\Debug\netcoreapp3.1\TechJobsConsole.pdb
+C:\Users\IanLevy\Desktop\launchcode\src\TechJobsConsole\obj\Debug\netcoreapp3.1\TechJobsConsole.AssemblyInfoInputs.cache
+C:\Users\IanLevy\Desktop\launchcode\src\TechJobsConsole\obj\Debug\netcoreapp3.1\TechJobsConsole.AssemblyInfo.cs
+C:\Users\IanLevy\Desktop\launchcode\src\TechJobsConsole\obj\Debug\netcoreapp3.1\TechJobsConsole.csproj.CoreCompileInputs.cache
+C:\Users\IanLevy\Desktop\launchcode\src\TechJobsConsole\obj\Debug\netcoreapp3.1\TechJobsConsole.dll
+C:\Users\IanLevy\Desktop\launchcode\src\TechJobsConsole\obj\Debug\netcoreapp3.1\TechJobsConsole.pdb
+C:\Users\IanLevy\Desktop\launchcode\src\TechJobsConsole\obj\Debug\netcoreapp3.1\TechJobsConsole.genruntimeconfig.cache
+C:\Users\IanLevy\Desktop\launchcode\src\TechJobsConsole\obj\Debug\netcoreapp3.1\TechJobsConsole.csprojAssemblyReference.cache
